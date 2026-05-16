@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664137526322",
+    "project_id": "stock-smart-6dccc",
+    "storage_bucket": "stock-smart-6dccc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664137526322:android:44d4f2b10d7adaaf15602b",
+        "android_client_info": {
+          "package_name": "com.example.stock_smart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkOy8QPKKR-TrJZejBuQAhOF7fZIFE-Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
