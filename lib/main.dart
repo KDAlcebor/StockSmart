@@ -1519,8 +1519,7 @@ class _AIInsightsCardState extends State<AIInsightsCard> {
       // Call Gemini API
       final model = GenerativeModel(
         model: 'gemini-1.5-flash',
-        apiKey:
-            'AIzaSyDVbwDGUCOzHpHJr_8F_6DCkhEy-9cw8Bc', // ← paste your key here
+        apiKey: 'YOUR_API_KEY_HERE', // ← paste your key here
       );
 
       final prompt = '''
